@@ -20,3 +20,6 @@ header .brand{width:145px}
 /* Preserve the frame while keeping the complete installed product visible. */
 .product-image.real-photo>img{object-fit:contain}
 @media(max-width:420px){.slider-bottom{flex-wrap:wrap;gap:12px}.tabs button{min-width:40px}}
+
+/* Contact layout with phone and email only. */
+.contact-email{display:inline-block;margin-top:12px;overflow-wrap:anywhere}.footer-grid{grid-template-columns:1fr 1fr}.footer-grid nav{justify-self:end}@media(max-width:800px){.footer-grid{grid-template-columns:1fr}.footer-grid nav{grid-column:1;grid-row:2;justify-self:start}.footer-bottom{flex-wrap:wrap}}
