@@ -77,10 +77,10 @@ const english={
   "Металеві двері для громадських, комерційних і приватних об’єктів. Виготовляємо на замовлення.": "Metal doors for public, commercial and private buildings. Made to order.",
   "Металеві віконниці на фасаді будівлі": "Metal window shutters on a building facade",
   "Віконниці для прорізів різних розмірів. Формат конструкції узгоджуємо індивідуально.": "Window shutters for openings of different sizes. Each design is agreed individually.",
-  "Розробляємо та виготовляємо захисні конструкції в Україні. Жалюзі — власна розробка нашої команди.": "We design and manufacture protective structures in Ukraine. Our blinds were developed by our own team.",
-  "Виготовляємо під розміри й потреби вашого об’єкта. Деталі замовлення обговорюємо особисто.": "Made to suit the dimensions and needs of your building. We discuss order details with you directly.",
+  "Захисні віконниці та жалюзі українського виробництва. Жалюзі — власна розробка команди.": "Protective shutters and blinds made in Ukraine. Our blinds were developed by our team.",
+  "Виготовляємо під розміри й потреби вашого об’єкта. Деталі узгоджуємо особисто.": "Made to suit the dimensions and needs of your building. We agree on the details with you directly.",
   "Перші в Україні": "First in Ukraine",
-  "За словами засновника, наша команда першою в Україні запровадила ці захисні віконниці та жалюзі. Маємо досвід роботи з навчальними закладами.": "According to our founder, our team was the first in Ukraine to introduce these protective shutters and blinds. We have experience working with educational facilities.",
+  "Ми першими в Україні започаткували встановлення захисних віконниць.": "We were the first in Ukraine to start installing protective shutters.",
   "Зателефонуйте нам або заповніть форму, щоб перейти до WhatsApp і надіслати запит на безкоштовну консультацію.": "Call us or fill in the form to open WhatsApp and send a request for a free consultation."
 };
 let language='uk';
