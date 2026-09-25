@@ -39,6 +39,7 @@ const english={
   "Медичні заклади": "Healthcare facilities",
   "Офіси": "Offices",
   "Приватні помешкання": "Private homes",
+  "Виробничі приміщення": "Production facilities",
   "03 / ПРО КОМПАНІЮ": "03 / ABOUT US",
   "Практичний підхід": "A practical approach",
   "до кожного об’єкта": "to every building",
